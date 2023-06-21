@@ -1,0 +1,43 @@
+.container{
+     display: flex;
+     border: 2px solid black;
+     margin: 50px;
+     padding: 30px;
+     background-color: rgb(25, 45, 62);
+}
+.col-lg-4{
+    border: 1px solid white;
+}
+.card{
+    border: 2px solid black;
+    height: 450px;
+    margin: 15px;
+}
+.card-body{
+    color: whitesmoke;
+    background-image: linear-gradient(90deg,rgb(186, 181, 140),rgb(52, 49, 49));
+}
+.divimage{
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+}
+.card-img{
+    border: 2px solid black;
+    height: 150px;
+    width: 250px;
+} 
+.text{
+    text-align: center;
+}
+.card-header{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.wheatherDetails{
+    text-align: center;
+    border: 2px solid;
+    color: black;
+    margin: 0px 15px;
+}
